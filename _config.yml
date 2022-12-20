@@ -3,7 +3,7 @@ title: Edith Puclla
 description: "Business Card Page"
 url: "https://edithturn.github.io"
 baseurl: ""
-profilepic: "/images/tzuehlke.jpg"
+profilepic: "/images/edithpuclla.jpg"
 bkimage: "/images/bk1.jpg"
 google_analytics: UA-XXXXXX-X
 font_awesome: "XXXXXXXXXX.js"
@@ -12,7 +12,6 @@ author:
   name: "Edith Puclla"
   email: edithpuclla20@gmail.com
   twitter_username: edithpuclla
-  #  facebook_username: joshgerdes
   github_username: edithturn
   linkedin_username: edithpuclla
   meetup_name: Azure-Meetup-Rostock-MV
